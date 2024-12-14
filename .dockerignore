@@ -1,0 +1,20 @@
+# Version control
+.git
+.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# Logs
+*.log
+*.db
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
